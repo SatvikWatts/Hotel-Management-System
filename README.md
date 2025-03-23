@@ -1,6 +1,7 @@
 # Hostel Management Application
 
 Created using MERN Stack with Redux
+An Upgrade to older project of mine using plain Java - https://github.com/SatvikWatts/Hostel-Management-System
 
 ## Installation
 
